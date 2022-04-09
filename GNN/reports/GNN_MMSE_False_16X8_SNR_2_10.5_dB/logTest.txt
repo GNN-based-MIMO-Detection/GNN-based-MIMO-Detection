@@ -1,0 +1,7 @@
+08_05:32:20
+cuda:0
+time per SNR point: 262.5596160888672
+time per SNR point: 270.0772559642792
+time per SNR point: 267.21038150787354
+time per SNR point: 267.2983133792877
+time per SNR point: 269.1144325733185
