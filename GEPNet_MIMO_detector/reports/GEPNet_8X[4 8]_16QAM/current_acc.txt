@@ -1,0 +1,2 @@
+current SER: 0.0,NR:8,NT_val:4,SNR:23.0,QAM:16
+current SER: 0.0,NR:8,NT_val:8,SNR:40.0,QAM:16

@@ -19,7 +19,7 @@ def parsersers_():
     parser.add_argument('--iter_GNN', type=int, default=10, help='iter_GNN') #Number of layers in the GNN
     parser.add_argument('--num_neuron', type=int, default=128, help='num_neuron') #Number of neurons in first layer of MLPs inside of the GNN
     parser.add_argument('--num_feature_su','-su', type=int, default=8, help='num_feature_su') #Number of embedded features     
-    parser.add_argument('--samples', type=int, default=70000, help='train sample data') #Total number of training samples
+    parser.add_argument('--samples', type=int, default=300000, help='train sample data') #Total number of training samples
     parser.add_argument('--batch_size', type=int, default=64, help='batch_size') #Batch size
     parser.add_argument('--n_epochs','-ne', type=int, default=500, help='n_epochs') #Total number of training epochs
     
