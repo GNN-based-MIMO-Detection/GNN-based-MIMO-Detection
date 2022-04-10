@@ -1,4 +1,4 @@
-This is a repository for the GNN MIMO detector https://arxiv.org/pdf/2201.03731.pdf
+This is a repository for the GEPNet MIMO detector https://arxiv.org/pdf/2201.03731.pdf
 
 ## Guideline 
 ### Training 
