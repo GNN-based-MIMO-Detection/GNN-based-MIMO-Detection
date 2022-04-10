@@ -13,5 +13,5 @@ There are two directories in this repository i.e., graph Neural Network (GNN) MI
 7. pandas==1.3.2
 8. matplotlib==3.4.3
 
-
+Please cite this work: @article{kosasih2022gepnet, title={Graph Neural Network Aided Expectation Propagation Detector for MU-MIMO Systems}, author={Kosasih, Alva and Onasis, Vincent and Hardjawana, Wibowo and Miloslavskaya, Vera and Andrean, Victor and Leu, Jenq-Shiou and Vucetic, Branka}, journal={arXiv preprint arXiv:2201.03731}, year={2022}}
 
